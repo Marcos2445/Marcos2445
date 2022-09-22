@@ -1,11 +1,4 @@
-# Marcos Parreira Junior dev
-##Conhecimentos em:
-*Javascript
-*Java
-*node
-*React
-*Oracle sql
-*C
+
 
 <!--
 **Marcos2445/Marcos2445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
