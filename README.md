@@ -1,4 +1,4 @@
-![Alt ou título da imagem] (https://github.com/Marcos2445/Marcos2445/issues/1)
+![gitB](https://user-images.githubusercontent.com/69857352/191866435-c068f67c-2853-4c9c-bd62-d64767101001.png)
 
 <!--
 **Marcos2445/Marcos2445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
